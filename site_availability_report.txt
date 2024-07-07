@@ -3,5 +3,5 @@
 Sberbank                  -4.76      0:04:00                       
 VTB                       100.00     0:00:00                       
 Gazprombank               100.00     0:00:00                       
-Raiffeisen                -4.76      0:01:00                       
-Tinkoff                   -4.76      0:01:00                       
+Raiffeisen                -4.76      0:00:00                       
+Tinkoff                   -4.76      0:00:00                       
