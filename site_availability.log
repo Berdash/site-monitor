@@ -1,13 +1,13 @@
-ERROR:root:Sberbank - 2024-07-07 15:42:43.086120 - отказ сайта: Cannot connect to host www.sberbank.ru:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)')]
-ERROR:root:Sberbank - 2024-07-07 15:42:43.086476 - отказ сайта
-INFO:root:VTB - 2024-07-07 15:42:43.221906 - сайт доступен
-INFO:root:Gazprombank - 2024-07-07 15:42:43.235478 - сайт доступен
-ERROR:root:Tinkoff - 2024-07-07 15:42:53.168981 - отказ сайта: 
-ERROR:root:Tinkoff - 2024-07-07 15:42:53.168981 - отказ сайта
-ERROR:root:Raiffeisen - 2024-07-07 15:42:53.169815 - отказ сайта: 
-ERROR:root:Raiffeisen - 2024-07-07 15:42:53.169815 - отказ сайта
-ERROR:root:Sberbank - 2024-07-07 15:43:23.690809 - отказ сайта: Cannot connect to host www.sberbank.ru:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)')]
-INFO:root:Gazprombank - 2024-07-07 15:43:23.951042 - сайт доступен
-INFO:root:VTB - 2024-07-07 15:43:23.960857 - сайт доступен
-ERROR:root:Tinkoff - 2024-07-07 15:43:34.163701 - отказ сайта: 
-ERROR:root:Raiffeisen - 2024-07-07 15:43:34.164706 - отказ сайта: 
+ERROR:root:Sberbank - 2024-07-07 15:42:43.086120 - РѕС‚РєР°Р· СЃР°Р№С‚Р°: Cannot connect to host www.sberbank.ru:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)')]
+ERROR:root:Sberbank - 2024-07-07 15:42:43.086476 - РѕС‚РєР°Р· СЃР°Р№С‚Р°
+INFO:root:VTB - 2024-07-07 15:42:43.221906 - СЃР°Р№С‚ РґРѕСЃС‚СѓРїРµРЅ
+INFO:root:Gazprombank - 2024-07-07 15:42:43.235478 - СЃР°Р№С‚ РґРѕСЃС‚СѓРїРµРЅ
+ERROR:root:Tinkoff - 2024-07-07 15:42:53.168981 - РѕС‚РєР°Р· СЃР°Р№С‚Р°: 
+ERROR:root:Tinkoff - 2024-07-07 15:42:53.168981 - РѕС‚РєР°Р· СЃР°Р№С‚Р°
+ERROR:root:Raiffeisen - 2024-07-07 15:42:53.169815 - РѕС‚РєР°Р· СЃР°Р№С‚Р°: 
+ERROR:root:Raiffeisen - 2024-07-07 15:42:53.169815 - РѕС‚РєР°Р· СЃР°Р№С‚Р°
+ERROR:root:Sberbank - 2024-07-07 15:43:23.690809 - РѕС‚РєР°Р· СЃР°Р№С‚Р°: Cannot connect to host www.sberbank.ru:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)')]
+INFO:root:Gazprombank - 2024-07-07 15:43:23.951042 - СЃР°Р№С‚ РґРѕСЃС‚СѓРїРµРЅ
+INFO:root:VTB - 2024-07-07 15:43:23.960857 - СЃР°Р№С‚ РґРѕСЃС‚СѓРїРµРЅ
+ERROR:root:Tinkoff - 2024-07-07 15:43:34.163701 - РѕС‚РєР°Р· СЃР°Р№С‚Р°: 
+ERROR:root:Raiffeisen - 2024-07-07 15:43:34.164706 - РѕС‚РєР°Р· СЃР°Р№С‚Р°: 
