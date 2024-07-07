@@ -47,8 +47,7 @@ class SiteMonitorManager:
     def __init__(self, sites):
         self.sites = [SiteMonitor(name, url) for name, url in sites.items()]
         self.is_running = True
-        self.start_time = time.time()  # Добавлено для отслеживания времени старта
-
+        self.start_time = time.time()
     async def monitor_sites(self, duration):
         self.start_time = time.time()
         end_time = self.start_time + duration
@@ -58,7 +57,7 @@ class SiteMonitorManager:
             for _ in range(PAUSE_BETWEEN_CHECKS):
                 if not self.is_running:
                     print("Monitoring stopped by user.")
-                    self.generate_report(time.time() - self.start_time)  # Используем фактическое прошедшее время
+                    self.generate_report(time.time() - self.start_time)
                     return
                 await asyncio.sleep(1)
         self.generate_report(duration)
@@ -98,5 +97,5 @@ class SiteMonitorManager:
 
     def stop(self):
         self.is_running = False
-        self.generate_report(time.time() - self.start_time)  # Используем фактическое прошедшее время
+        self.generate_report(time.time() - self.start_time)
         print("Мониторинг остановлен пользователем.")
